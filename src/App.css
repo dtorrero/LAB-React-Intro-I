@@ -1,1 +1,31 @@
+body,
+table {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+table, th, td {
+  border-style: solid;
+  text-align: left;
+  width: 100%;
+}
+
+
+
 
